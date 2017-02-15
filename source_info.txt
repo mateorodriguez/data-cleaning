@@ -1,0 +1,1 @@
+Andrew Jaffe's R notes -> http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf
